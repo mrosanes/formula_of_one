@@ -6,7 +6,8 @@ import math
 import numpy
 
 # formula_one:
-# Summation[(-1)**i * n! * (n-i)**n / (i! * (n-i)!)] = 1
+# (1/n!)*summation[(-1)**i * n! * (n-i)**n / (i! * (n-i)!)] = 1  
+# (With the summation being between 1 and n-1)
 
 def formula_one(n):
     print(type(n))
