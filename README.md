@@ -11,4 +11,4 @@ keypad were worn. After finding a demonstration of the code formula, I got
 to the 'formula of one' by chance.
 
 I publish it here under the github project:
-https://github.com/mrosanes/formula_of_one
+https://github.com/mrosanes/formula_of_one/blob/main/one_fomula.py
